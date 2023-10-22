@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # About this Website
+## This website was build with React.js
 * I created a landing page which shows two buttons for the question and the solution
 * I also created a profile page which can be navigated to from the nav bar 
 * I also made it responsive
